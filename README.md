@@ -12,5 +12,5 @@ The solution is easy to deploy. First, download the files to you local machine a
 - Add bus stop name pop-ups at each stop
 - Add a line layer to the map
 
-### License
+## License
 This project is licensed under the terms of the MIT license. See LICENSE.
