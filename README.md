@@ -2,7 +2,7 @@
 
 ## Discription
 This project displays a map of the MIT campus and with the click of a buton tracks the bus location between MIT and Harvard. I've made mostly
-modifications to the syling of the page which include a custom map, navigation features and MIT color stylings.
+modifications to the styling of the page which include a custom map, navigation features and MIT color stylings.
 
 ## Deployment
 The solution is easy to deploy. First, download the files to your local machine and make sure they are in put into the same directory. Using a browser, simply open up the index.html file. To execute the tracking feature, simply click the radio button in the top right had corner of the page. 
