@@ -1,6 +1,6 @@
 # Real-Time-Bus-Tracker
 
-## Discription
+## Description
 This project displays a map of the MIT campus and with the click of a buton tracks the bus location between MIT and Harvard. I've made mostly
 modifications to the styling of the page which include a custom map, navigation features and MIT color stylings.
 
